@@ -36,7 +36,7 @@
 #define TIME_STAMP [NSString stringWithFormat:@"%f",[[NSDate date] timeIntervalSince1970] * 1000]
 NSString *const DATA_TYPE = @"items";
 NSString *const CLIENT = @"kubsu_app";
-NSString *const PLATFORM = @"kubsu_app";
+NSString *const PLATFORM = @"ios";
 NSString *const NUM = @"20";
 NSString *const NEWS = @"0";
 NSString *const SERVER_ADRESS = @"77.246.159.212";
